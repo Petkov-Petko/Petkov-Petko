@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Petko Petkov from Bulgaria.
 
-I'm a passionate frontend developer with skills in JavaScript, HTML, CSS, and I'm currently diving into the exciting world of React. 🚀
+I'm a learning  frontend developer with skills in JavaScript, HTML, CSS, and I'm currently diving into the exciting world of React. 🚀
 ## 🌱 I’m currently learning
 
 I'm currently focusing on mastering: 
