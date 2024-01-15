@@ -4,8 +4,8 @@ I'm a learning  frontend developer with skills in JavaScript, HTML, CSS, and I'm
 ## 🌱 I’m currently learning
 
 I'm currently focusing on mastering: 
-
-- React components and state management
+- JavaScript.
+- React components.
 - Building responsive and accessible web applications
 - Exploring advanced CSS techniques
 
