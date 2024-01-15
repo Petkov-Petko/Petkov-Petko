@@ -3,7 +3,7 @@
 I'm a passionate frontend developer with skills in JavaScript, HTML, CSS, and I'm currently diving into the exciting world of React. 🚀
 ## 🌱 I’m currently learning
 
-I'm currently focusing on mastering:
+I'm currently focusing on mastering: 
 
 - React components and state management
 - Building responsive and accessible web applications
