@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Petko Petkov!
 ## About Me
-I'm an enthusiastic front-end developer based in Bulgaria, passionate about JavaScript and React development. Currently exploring TypeScript and server-side technologies.
+I'm an enthusiastic front-end developer based in Bulgaria, passionate about JavaScript and React development.I'm currently enrolled into the Alpha JS program in Telerik Academy.
+
 
 ## 🛠️ Technical Proficiency:
 Experienced in JavaScript, HTML, CSS, and a touch of Python. Currently delving into React development and exploring TypeScript and server-side technologies.
