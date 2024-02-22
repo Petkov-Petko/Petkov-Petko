@@ -1,15 +1,19 @@
-# Greetings! 👋 
-I'm Petko Petkov, an enthusiastic and continually learning front-end developer based in Bulgaria.
+# 👋 Hello, I'm Petko Petkov!
+## About Me
+I'm an enthusiastic front-end developer based in Bulgaria, passionate about JavaScript and React development. Currently exploring TypeScript and server-side technologies.
 
 ## 🛠️ Technical Proficiency:
-Experienced in JavaScript, HTML, CSS, and a touch of Python. Currently delving into React development. 🚀
+Experienced in JavaScript, HTML, CSS, and a touch of Python. Currently delving into React development and exploring TypeScript and server-side technologies.
 
 ## 📫 Connect With Me:
 
-Feel free to reach out to me!
-
 - ✉️ Gmail: Petkozlatilov1234@gmal.com
-- 📘Facebook: https://www.facebook.com/petko.zl/ 
+- 📘Facebook: https://www.facebook.com/petko.zl/
+
+*Feel free to reach out to me!*
+## What I'm Working On
+
+Currently honing my React skills and exploring the possibilities of TypeScript and server-side technologies.
 
 
 # 💻 Languages and Tools:
