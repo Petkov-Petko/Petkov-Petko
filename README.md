@@ -8,7 +8,6 @@ Experienced in JavaScript, HTML, CSS, and a touch of Python. Currently delving i
 
 ## 📫 Connect With Me:
 
-- 📘 [Facebook](https://www.facebook.com/petko.zl/). 
 - 🌐[LinkedIn](https://www.linkedin.com/in/petko-petkov-b87a4828a/). 
 - ✉️ Gmail: Petkozlatilov1234@gmal.com
 
