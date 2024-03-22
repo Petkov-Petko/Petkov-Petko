@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Petko Petkov!
 ## About Me
 I'm an enthusiastic front-end developer based in Bulgaria, passionate about JavaScript and React development.I'm currently enrolled into the Alpha JS program in Telerik Academy.
+- Check out my [website](https://www.miraya.tech/](https://petkov-petko.github.io/resume/)) to learn more about me.
 
 
 ## 🛠️ Technical Proficiency:
