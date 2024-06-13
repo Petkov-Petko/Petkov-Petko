@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Petko Petkov!
 ## About Me
-I'm an enthusiastic front-end developer based in Bulgaria, passionate about JavaScript and React development.I'm currently enrolled into the Alpha JS program in Telerik Academy.
+I'm an enthusiastic 25 year old front-end developer based in Bulgaria Varna, passionate about JavaScript and React development. I have graduated from the Alpha JS program in Telerik Academy. I'm driven by a thirst for knowledge and a passion for problem-solving, pushing myself to master new technologies and tackle challenges head-on.
 - Check out my [website](https://petkov-petko.github.io/Resume-React/) to learn more about me.
 
 
 ## 🛠️ Technical Proficiency:
-Experienced in JavaScript, HTML, CSS, and a touch of Python. Currently delving into React development and exploring TypeScript and server-side technologies.
+Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my skills in TypeScript and server-side technologies.
 
 ## 📫 Connect With Me:
 
