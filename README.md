@@ -6,7 +6,7 @@ I'm an enthusiastic 25 year old front-end developer based in Bulgaria Varna (Wil
 
 
 ## 🛠️ Technical Proficiency:
-Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my skills in TypeScript and server-side technologies.
+Proficient in JavaScript, HTML, CSS, React, and Firebase.
 
 ## 📫 Connect With Me:
 
