@@ -16,7 +16,7 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase.
 *Feel free to reach out to me!*
 ## What I'm Working On
 
-Currently honing my React skills and exploring the possibilities of TypeScript and server-side technologies.
+Currently learning TypeScript and soon will enroll in NodeJS Complete Guide course.
 
 
 # 💻 Languages and Tools:
